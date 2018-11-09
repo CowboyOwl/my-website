@@ -1,0 +1,3 @@
+alias np='start notepad++'
+
+
